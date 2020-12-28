@@ -1,0 +1,26 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/netbeans,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=netbeans,visualstudiocode
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of https://www.toptal.com/developers/gitignore/api/netbeans,visualstudiocode
