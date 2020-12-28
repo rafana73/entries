@@ -1,2 +1,4 @@
 # entries
-entries for two teams
+
+- entries for two teams
+- database required
