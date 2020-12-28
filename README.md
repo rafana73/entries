@@ -1,4 +1,5 @@
-# entries
+# Entries for two teams
 
-- entries for two teams
 - database required
+- administration panel
+- simple to use
